@@ -4,8 +4,7 @@ title: AI are so hot right now
 colors: colors-a
 date: '2024-05-02'
 author: content/data/team/doris-soto.json
-excerpt: >-
-  More context that may or may not be helpful
+excerpt: More context that may or may not be helpful
 featuredImage:
   type: ImageBlock
   url: /images/featured-Image5.jpg
@@ -45,7 +44,7 @@ bottomSections:
     showReadMoreLink: true
   - type: ContactSection
     backgroundSize: full
-    title: 'Stay up-to-date with my words ✍️'
+    title: Stay up-to-date with my words ✍️
     colors: colors-f
     form:
       type: FormBlock
@@ -103,15 +102,129 @@ bottomSections:
       text:
         textAlign: left
 ---
+Uma das principais fases de qualquer processo seletivo são as temidas **entrevistas técnicas**. Aqui, serão avaliados cenários referentes as suas '*hard-skills*'. Nesse post, darei alguns exemplo de cases reais pedidos pelo mercado, e comentarei os principais pontos que foram avaliados em cada um deles. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed ante lorem, tincidunt ac leo efficitur, feugiat tempor odio. Curabitur at auctor sapien. Etiam at cursus enim. Suspendisse sed augue tortor. Nunc eu magna vitae lorem pellentesque fermentum. Sed in facilisis dui. Nulla molestie risus in mi dapibus, eget porta lorem semper. Donec sed facilisis nibh. Curabitur eget dui in libero euismod commodo nec sit amet est. Etiam id ipsum aliquam, vehicula erat sit amet, consequat tortor.
+Importante entender que o conteúdo técnico dos desafios varia (***e MUITO!***) dependendo da empresa e da vaga, mas uma característica é comum em todos: Os desafios técnicos procuram saber se o candidato tem os requisitos suficientes pedidos pela posição no qual irá exercer no trabalho.
 
-Etiam facilisis lacus nec pretium lobortis. Praesent dapibus justo non efficitur efficitur. Nullam viverra justo arcu, eget egestas tortor pretium id. Sed imperdiet mattis eleifend. Vivamus suscipit et neque imperdiet venenatis. In malesuada sed urna eget vehicula. Donec fermentum tortor sit amet nisl elementum fringilla. Pellentesque dapibus suscipit faucibus. Nullam malesuada sed urna quis rutrum. Donec facilisis lorem id maximus mattis. Vestibulum quis elit magna. Vestibulum accumsan blandit consequat. Phasellus quis posuere quam.
+À princípio, vou mostrar como exemplo três cases para as seguintes posições: Segurança (Geral), Blue Team Engineer e Application Security. Para vagas de Pentest, normalmente é enviado ao candidato uma aplicação com vulnerabilidades para serem exploradas e documentadas.
 
-> “Everybody should learn to program a computer, because it teaches you how to think.”
+Vamos dar uma olhada em alguns exemplos:
 
-Vestibulum ullamcorper risus auctor eleifend consequat. Vivamus mollis in tellus ac ullamcorper. Vestibulum sit amet bibendum ipsum, vitae rutrum ex. Nullam cursus, urna et dapibus aliquam, urna leo euismod metus, eu luctus justo mi eget mauris. Proin felis leo, volutpat et purus in, lacinia luctus eros. Pellentesque lobortis massa scelerisque lorem ullamcorper, sit amet elementum nulla scelerisque. In volutpat efficitur nulla, aliquam ornare lectus ultricies ac. Mauris sagittis ornare dictum. Nulla vel felis ut purus fermentum pretium. Sed id lectus ac diam aliquet venenatis. Etiam ac auctor enim. Nunc velit mauris, viverra vel orci ut, egestas rhoncus diam. Morbi scelerisque nibh tellus, vel varius urna malesuada sed. Etiam ultricies sem consequat, posuere urna non, maximus ex. Mauris gravida diam sed augue condimentum pulvinar vel ac dui. Integer vel convallis justo.
+Case 1 - Vaga Analista Segurança da Informação Júnior/Pleno -  Empresa de Tecnologia
 
-Nam rutrum magna sed pellentesque lobortis. Etiam quam mauris, iaculis eget ex ac, rutrum scelerisque nisl. Cras finibus dictum ex sed tincidunt. Morbi facilisis neque porta, blandit mauris quis, pharetra odio. Aliquam dictum quam quis elit auctor, at vestibulum ex pulvinar. Quisque lobortis a lectus quis faucibus. Nulla vitae pellentesque nibh, et fringilla erat. Praesent placerat ac est at tincidunt. Praesent ultricies a ex at ultrices. Etiam sed tincidunt elit. Nulla sagittis neque neque, ultrices dignissim sapien pellentesque faucibus. Donec tempor orci sed consectetur dictum. Ut viverra ut enim ac semper. Integer lacinia sem in arcu tempor faucibus eget non urna. Praesent vel nunc eu libero aliquet interdum non vitae elit. Maecenas pharetra ipsum dolor, et iaculis elit ornare ac.
+****
 
-Aenean scelerisque ullamcorper est aliquet blandit. Donec ac tellus enim. Vivamus quis leo mattis, varius arcu at, convallis diam. Donec ac leo at nunc viverra molestie ac viverra nisi. Proin interdum at turpis at varius. Nunc sit amet ex suscipit, convallis ligula eu, pretium turpis. Sed ultricies neque vel mi malesuada, et mollis risus lobortis. Sed condimentum venenatis mauris, id elementum dolor gravida ac. Sed sodales tempus neque, quis iaculis arcu tincidunt ut. Donec vitae faucibus dui. In hac habitasse platea dictumst. Donec erat ex, ullamcorper a massa a, porttitor porta ligula.
+*
+
+
+
+*
+
+
+
+*
+
+
+
+*
+
+
+
+*
+
+
+
+****
+
+*
+
+
+
+*
+
+
+
+*
+
+
+
+*
+
+
+
+![](https://www.securitytalents.com.br/~gitbook/image?url=https%3A%2F%2F472801866-files.gitbook.io%2F%7E%2Ffiles%2Fv0%2Fb%2Fgitbook-x-prod.appspot.com%2Fo%2Fspaces%252FKpzbmVVVqtAyWCAnmCBJ%252Fuploads%252FyJOOOFkaw4A2mHb8Ze6Y%252FScreenshot%25202024-09-24%2520at%252021.29.28.png%3Falt%3Dmedia%26token%3D25debb3e-54f6-45f9-967b-e69ffaa18e72\&width=768\&dpr=4\&quality=100\&sign=42f478c1\&sv=1)Topologia do case 1
+
+> **Comentário Case 1:** 
+>
+> Nesse cenário, foi avaliada a competência do candidato em conhecimentos gerais sobre Segurança da Informação, o que incluiu: 
+>
+> *
+>
+>     Análise de boas práticas de Segurança da Informação: É esperado que o candidato(a) avalie e pontue erros nessa topologia, como serviços em execução de forma incorreta (3389, 445), falta de segmentação de rede, servidores Linux sem autenticação correta, etc.
+>
+> *
+>
+>     Conhecimento de técnicas de ataque: É esperado que o candidato(a) conheça e deduza de forma coesa técnicas prováveis de terem sido exploradas nesse cenário hipotético, como exploração de vulnerabilidades conhecidas, CVEs, credenciais vazadas, cenários de movimentação lateral, etc.
+>
+> *
+>
+>     Conhecimento de frameworks de Segurança da Informação: É esperado que o candidato(a) conheça e sugira cenários de correção, não apenas da parte técnica, mas também da parte de **governança**, sugerindo a implementação de frameworks como uma 'Política de Segurança da Informação', que deve ter diretrizes que mitiguem a probabilidade do acontecimento dos pontos  identificados anteriormente.
+
+Case 2 - Vaga Blue Team Engineer - Pleno - Fintech
+
+****
+
+1.
+
+    ``
+
+2.
+
+    ``
+
+3.
+
+    ``
+
+> **Comentário Case 2:** 
+>
+> Nesse cenário, havia uma máquina virtual Linux com diversas vulnerabilidades e políticas feitas **incorretamente** de forma proposital, para que seja avaliado o conhecimento do candidato sobre **hardening,** isto é, realizar o entendimento do estado atual daquela máquina Linux (serviços em execução, política de senhas, rede, etc.), para depois serem sugeridas melhorias para esse ambiente.
+>
+> É esperado aqui que o candidato redigisse uma boa documentação técnica explicando o que foi encontrado de errado nessa máquina, e que sugerisse medidas de **hardening** com base em frameworks de mercado, como por exemplo, o CIS (<https://www.cisecurity.org/cis-benchmarks-overview>), o que é perfeitamente condizente com o título da vaga 'Blue Team Engineer'.
+
+Case 3 - Vaga AppSec Engineer - Pleno/Sênior - Fintech
+
+
+
+
+
+****
+
+1.
+
+    ****
+
+> **Comentário Case 3:** 
+>
+> Nesse cenário, foi avaliado a competência do candidato em desenvolver (codar) e documentar ferramentas básicas que ele pode utilizar no dia-a-dia. 
+>
+> Em uma vaga de Application Security, é **fundamental** que o candidato tenha skills de programação, principalmente **scripting**, para que possa desenvolver as próprias ferramentas conforme a necessidade do trabalho.
+>
+> Nesse case, é pedido que se realize uma automação para uma ferramenta de proxy conhecida de mercado (Burp Suite), e que nessa automação seja contemplado um item importante de negócios para a empresa, no caso, a busca por dados sensíveis (**CPFs**) em suas aplicações web.
+
+### Independente do case, é fundamental:
+
+
+
+<!---->
+
+1.  Cumprir o prazo que o recrutador te dará para realizar o desafio (óbvio..),
+
+2.  Comunicar quaisquer problemas referentes à infraestrutura do desafio (o famoso: o site caiu...),
+
+3.  Documentar **BEM** os passos realizados no desafio, pois você provavelmente enviará e/ou apresentará esse documento para alguém no processo seletivo
+
+4.  Tirar todas as dúvidas referentes ao case, afinal, você não vai querer entregar **X** quando na verdade foi pedido **Y.**
+
+*Espero que essas dicas sejam valiosas.
+Good luck.*
